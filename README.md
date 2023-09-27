@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Muhammad Nameer Akhter</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1800&t=st=1689842993~exp=1689843593~hmac=89ffbb6c4293c20b9b1fc4c36730d18af5ff20a6733d32be1ad59edb0693b7e0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameerakhter&label=Profile%20views&color=0e75b6&style=flat" alt="nameerakhter" /> </p>
 
