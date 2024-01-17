@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammad Nameer Akhter</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-# 💫 About Me:
+<h4>💫 About Me:</h4> 
 
 - 🔭 I’m currently working on **Stable Diffusion to create AI generated Images**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me @**akhtarnameer@gmail.com**
 <hr>
-# 🌐 Socials:
+<h4>🌐 Socials:</h4>  
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NameerAkhter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nameerakhter/) 
 # 💻 Tech Stack:
