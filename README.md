@@ -1,12 +1,11 @@
 <h1 align="center">Hello 👋, I'm Muhammad Nameer Akhter</h1>
 <!-- <h3 align="center">Software Developer</h3> -->
-<h4>💫 About Me:</h4> 
 
-- 🔭 I’m currently working on **Vibration Signal Data Analysis**
+- 🔭 I’m a **AIML enginner and a Full stack Web developer**
 
-- 🌱 **I’m currently learning:** Advanced AWS Services
+- 🌱 **I’m currently learning:** GSAP, ScrollTrigger, ThreeJs
 
-- 📫 How to reach me @**akhtarnameer@gmail.com**
+- 📫 Reach out to me  @**akhtarnameer@gmail.com** 
 <hr>
 <h4>🌐 Socials:</h4>  
 
