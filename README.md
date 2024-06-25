@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Muhammad Nameer Akhter</h1>
 <!-- <h3 align="center">Software Developer</h3> -->
 
-- 🔭 I’m a **AIML enginner and a Full stack Web developer**
+- 🔭 I’m a **AI enginner and a Full stack Web developer**
 
-- 🌱 **I’m currently learning:** GSAP, ScrollTrigger, ThreeJs
+- 🌱 **I’m currently working on:** VR development
 
 - 📫 Reach out to me  @**akhtarnameer@gmail.com** 
 <hr>
