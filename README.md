@@ -3,8 +3,6 @@
 
 - 🔭 I’m a **AI engineer and a Full stack Web developer**
 
-- 🌱 **I’m currently working on:** VR development
-
 - 📫 Reach out to me  @**akhtarnameer@gmail.com** 
 <hr>
 <h4>🌐 Socials:</h4>  
