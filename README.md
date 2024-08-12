@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/user-attachments/assets/b99a7a3c-630e-41ed-a081-0d43476ca5a9" alt="Recording 2024-08-09 at 00:54:01">
 </div>
 <!-- https://appwrite.io/init/tickets/66b51919003c8c4c33f8 -->
