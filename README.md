@@ -41,8 +41,8 @@
       <h3>💻 Check out some of my pinned repos</h3>
     </td>
     <td>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d1ufxz4otnl6vdaltxn3ogb5h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" />
+      <a href="https://github.com/nameerakhter">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d1ufxz4otnl6vdaltxn3ogb5h&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=01FF57&bar_color_cover=false" alt="Spotify profile" />
       </a>
     </td>
   </tr>
