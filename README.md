@@ -26,7 +26,6 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Nameer
       </h1>
      <p align="center"><a href="https://github.com/nameerakhter" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 18px"></a> <a href="https://www.linkedin.com/in/nameerakhter" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 18px"></a> <a href="https://twitter.com/inameerakhter" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="32" style="margin-right: 18px"></a></p>
     </summary>
