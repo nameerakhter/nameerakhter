@@ -33,8 +33,7 @@
 <table>
   <tr>
     <td>
-      <h3>🚀 I am a Full stack web developer and ML Engineer</h3>
-      <h3>🌱 I’m currently new to open source</h3>
+      <h3>🚀 I am a Programmer</h3>
       <h3>⚡ Fun fact: love tech, music, and sports</h3>
       <h3>📫 How to reach me: akhtarnameer@gmail.com</h3>
       <h3>💻 Check out some of my pinned repos</h3>
