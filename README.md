@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-<!-- **<h3 align="left">Skills</h3>**
+**<h3 align="left">Skills</h3>**
 
 # 🕸️ Web Dev Tech Stack:
 
